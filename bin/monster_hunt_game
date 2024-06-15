@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+require "monster_hunt_game"
+
+game = MonsterHuntGame::Game.new
+game.play
